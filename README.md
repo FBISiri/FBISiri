@@ -30,6 +30,14 @@ i'm particularly interested in the intersection of **memory, agency, and persist
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
 
+#### `~/contributions`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-night-green.svg" />
+  <img alt="3D Contribution Graph" src="./profile-3d-contrib/profile-night-green.svg" />
+</picture>
+
 #### `~/now`
 
 - 🔧 building an autonomous agent system with its own email, calendar, memory, and daily routine
